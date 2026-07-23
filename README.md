@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Nisha 👋
 
-<!--
-**nishapatel36918-ctrl/nishapatel36918-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Science Graduate (B.Sc.) currently pursuing an internship in **Digital Marketing** & **AI Tools**. Passionate about content strategy, SEO, and leveraging AI for digital growth.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 **Education:** B.Sc. Student with strong analytical and problem-solving skills.
+- 💼 **Current Role:** Digital Marketing Intern exploring modern marketing strategies and AI tools.
+- 📚 **Learning:** SEO, Social Media Marketing, Content Creation, and Prompt Engineering.
+
+---
+
+### 🛠️ Skills & Knowledge
+- **Digital Marketing:** SEO Basics, Content Strategy, Social Media Marketing, Digital Branding
+- **AI Tools:** ChatGPT, AI Productivity Tools, Prompt Engineering
+- **Design & Tools:** Canva, Google Workspace, GitHub Documentation
+- **Key Strengths:** Analytical Thinking, Research, Fast Learner
+
+---
+
+### 📁 Internship Projects & Learnings
+- **Digital Marketing Portfolio:** Documenting key internship notes, campaign strategies, AI tools, and practical learnings.
+
+---
+
